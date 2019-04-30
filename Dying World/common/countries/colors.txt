@@ -1,0 +1,46 @@
+#reload countrycolors
+TEU = {
+	color = rgb { 105  105  105 }
+	color_ui = rgb { 105  105  105 }
+}
+
+
+GER = {
+	color = rgb { 238  130  238 }
+	color_ui = rgb { 238  130  238 }
+}
+
+AUS = {
+	color = rgb { 255  255  255 }
+	color_ui = rgb { 255  255  255 }
+}
+
+GAL = {
+	color = rgb { 46  139  87 }
+	color_ui = rgb { 46  139  87 }
+}
+
+BAL = {
+	color = rgb { 210  180  140 }
+	color_ui = rgb { 210  180  140 }
+}
+
+RME = {
+	color = rgb { 128  0  128 }
+	color_ui = rgb { 128  0  128 }
+}
+
+SLA = {
+	color = rgb { 139  0  0 }
+	color_ui = rgb { 139  0  0 }
+}
+
+NAP = {
+	color = rgb { 0  0  139 }
+	color_ui = rgb { 0  0  139 }
+}
+
+UHP = {
+	color = rgb { 0  191  255 }
+	color_ui = rgb { 0  191  255 }
+}
