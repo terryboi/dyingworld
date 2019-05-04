@@ -1,5 +1,5 @@
 ﻿name="Dying World"
-path="mod/mod/"
+path="mod/Dying World"
 tags={
 	"Alternative History"
 	"Map"
